@@ -1,5 +1,5 @@
 ---
-title: "How Performant Are Performance Standards"
+title: "Measuring How Performant Performance Standards Are"
 author: Steve Simpson
 tags: [Data Science]
 ---
