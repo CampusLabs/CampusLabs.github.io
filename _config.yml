@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Campus Labs Tech"
+title                    : "Campus Labs Data+Tech"
 title_separator          : "-"
-name                     : 
+name                     : "Campus Labs Data+Tech"
 description              : 
 url                      : #https://CampusLabs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #https://CampusLabs.github.io # the subpath of your site, e.g. "/blog"
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Campus Labs Tech"
+  name             : "Campus Labs Data+Tech"
   avatar           : "CampusLabsLogo.jpg"
   bio              : 
   location         : "Buffalo, NY"
