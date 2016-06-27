@@ -11,4 +11,4 @@ Campus Labs offers an integrated software and cloud-based assessment platform fo
 To that end, the data science and tech teams at Campus Labs work together to imagine possibilities and deliver solutions that empower innovation in higher education.
 
 
-Check out [current opportunities to join our team](http://www.campuslabs.com/careers-and-culture/).
+Check out [current opportunities to join our team](http://www.campuslabs.com/careers-and-culture/){target = _blank}.
