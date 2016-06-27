@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Campus Labs Tech"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : 
+description              : 
+url                      : #https://CampusLabs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
@@ -63,12 +63,12 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Campus Labs Tech"
+  avatar           : "CampusLabsLogo.jpg"
+  bio              : 
+  location         : "Buffalo, NY"
   email            :
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -91,6 +91,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+
 
 
 # Reading Files
@@ -199,6 +200,19 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+#  Default settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
 
 # HTML Compression
 # - http://jch.penibelst.de/
