@@ -2,6 +2,7 @@
 title: Shrinking Uncertainty
 tags: [Data Science]
 author: Steve Simpson
+excerpt:  "Two rebuttals against an instinct to ignore uncertainty: 1) knowing what you don't know keeps you humble and teachable, and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not some it well. The 'unknown' more often than not does not equate to the 'unknowable'."
 ---
 
 In the previous two posts we've explored:
@@ -13,7 +14,7 @@ In this post we'll unpack a bit more how uncertainty works, and why (as we noted
 
 In the first post we mentioned that a lot of general interest in prediction can come off as ignore the uncertainty part of the prediction, as if its dirt swept under a rug. Maybe the name 'uncertainty' evokes some primal instinct to fill the unknown with the known. 
 
-Here's two rebuttals to that instinct to ignore uncertainty: 1) knowing what you don't know keeps you humble and teachable and gives you guidance about where to grow. And 2) jump because one might not be able to know something perfectly does not in any way equate with not some it well. The 'unknown' more often than not does not equate to the 'unknowable'.
+Here's two rebuttals to that instinct to ignore uncertainty: 1) knowing what you don't know keeps you humble and teachable and gives you guidance about where to grow. And 2) just because one might not be able to know something perfectly does not in any way equate with not knowing it well. The 'unknown' &ne; the 'unknowable'.
 
 ### Measuring to Minimize
 
