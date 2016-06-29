@@ -7,8 +7,8 @@ excerpt:  "Two rebuttals against an instinct to ignore uncertainty: 1) knowing w
 
 In the previous two posts we've explored:
 
-1. how [credible predictions give you two estimates](basic-anatomy-of-prediction): the expected outcome and how much the realized/observed outcome could reasonably differ from that. 
-2. how [distributions can help us understand both expected value and the uncertainty around it](everyday-distributions-and-how-we-predict-from-them).
+1. how [credible predictions give you two estimates](/basic-anatomy-of-prediction): the expected outcome and how much the realized/observed outcome could reasonably differ from that. 
+2. how [distributions can help us understand both expected value and the uncertainty around it](/everyday-distributions-and-how-we-predict-from-them).
 
 In this post we'll unpack a bit more how uncertainty works, and why (as we noted in the second post) we measure/estimate uncertainty. Spoiler alert: it's because we can do something about the things we measure.
 
