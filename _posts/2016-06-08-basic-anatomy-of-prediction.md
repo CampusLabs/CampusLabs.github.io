@@ -2,7 +2,7 @@
 author: Steve Simpson
 title: Credible Prediction -- Expected Value & Uncertainty
 tags: [Data Science]
-excerpt: Every good prediction has at least 2 parts: the expected value and the uncertainty around it.
+excerpt: "Every good prediction has at least 2 parts: the expected value and the uncertainty around it."
 ---
 
 ![](/images/predict_expected_value_range.png)
