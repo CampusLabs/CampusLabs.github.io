@@ -22,7 +22,7 @@ So now consider why shrinking the range of uncertainty around your estimate is a
 
 ![](/images/ranges_of_uncertainty.png)
 
-Working off of [last post's milk example](everyday-distributions-and-how-we-predict-from-them), suppose a gallon of milk cost $1 one day and $15 the next. There is wide uncertainty ranges in the price of milk. In such a case, people under that pricing regime would suffer from not really knowing what to expect one day to the next. The market was totally unpredictable. When the uncertainty ranges are wide, the range of expected outcomes are wide around the expected outcome. And so when a given choice could result in either quite bad or quite good outcomes not a small percentage of the time, making a choice seems undesirable. 
+Working off of [last post's milk example](/everyday-distributions-and-how-we-predict-from-them), suppose a gallon of milk cost $1 one day and $15 the next. There is wide uncertainty ranges in the price of milk. In such a case, people under that pricing regime would suffer from not really knowing what to expect one day to the next. The market was totally unpredictable. When the uncertainty ranges are wide, the range of expected outcomes are wide around the expected outcome. And so when a given choice could result in either quite bad or quite good outcomes not a small percentage of the time, making a choice seems undesirable. 
 
 In such situations as this, people can only do conservative things and always save their money, never spend, never invest. This is why economies that are unstable are also stagnant. Noone knows enough about the future with enough confidence that they believe an investment or a purchase will have a positive return instead of loss. 
 
