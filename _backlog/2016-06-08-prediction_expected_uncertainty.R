@@ -31,7 +31,7 @@ ggplot()  +
   geom_density(data=data.frame(prices=rnorm(1000,3.5,.3)), aes(prices), color="blue") +
   geom_density(data=data.frame(prices=rnorm(1000,3.5,3)), aes(prices), color="red") +
   geom_density(data=data.frame(prices=rnorm(1000,3.5,1)), aes(prices), color="purple") +
-  annotate("text", x=5.5 , y=1, label="highly certain", color="blue", size=5.5) +
+  annotate("text", x=5.8 , y=1, label="highly certain", color="blue", size=5.5) +
   annotate("text", x=6 , y=.25, label="certain", color="purple", size=5.5) +
   annotate("text", x=9 , y=.1, label="highly uncertain", color="red", size=5.5) +
   geom_vline(xintercept = 3.5, linetype="dotted", color="black")+
