@@ -5,7 +5,7 @@ tags: [Data Science]
 ---
 
 
-When most of us think of outcomes being measured, often it is the outcome measures in view, that is, the performance measures students receive as they are assessed against a performance standard, incapsulated in an outcome statement. That's definitely one way to look at it.  But let's change the focal point and turn that microscope into a telescope. 
+When most of us think of outcomes being measured, often it is the outcome measures in view -- that is, the performance measures students receive as they are assessed against a performance standard incapsulated in an outcome statement. That's definitely one way to look at it.  But let's change the focal point and turn that microscope into a telescope. 
 
 How well are our performance standards doing? What standards are our performance standards held up against? These are often the more meta questions we consider in the Data Science team. We're always trying to understand better how our tools work – to know what a dull knife looks like compared against a sharp one, as it were. When you hold a well-made tool in your hand, it almost does all the work for you.
 
