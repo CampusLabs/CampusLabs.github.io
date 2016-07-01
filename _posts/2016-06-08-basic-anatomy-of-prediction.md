@@ -22,11 +22,9 @@ So both parts are valuable. In every day life we use both to make informed decis
 
 For example, say, you ask a financial advisor for her opinion on such and such an investment: what is wanted in her assessment of the opportunity is the expected value and how much she is confident that this estimate is likely. 
 
-She may be the wisest advisor there is and she could still rightly say, we only have enough information at this point to say this guess and have this much confidence because the range of possible outcomes varies considerably here. In fact, the wiser she is, the more clearly she's able to articulate the risk part of investments via her estimate of the uncertainty, not just promise rewards as if they are certain. 
+She may be the wisest advisor there is and she could still rightly say, we only have enough information at this point to expect this amount of financial return on investment with this amount of variability in the possible outcomes. In fact, the wiser she is, the more clearly she's able to articulate the risk part of investments via her estimate of the uncertainty, not just describe expected rewards as if they are certain. Furthermore, as new information comes out, she can likely adjust not only her informed estimate of the expected value but also how confident we can be in the likelihood of that estimate being realized. 
 
-Furthermore, as new information comes out, she can likely improve not only her informed estimate at the expected value but also how confident she is in the estimate. This example shows both levels of confidence: a client can have supreme confidence in her professional experience and her experience can precisely define how much confidence her client can have in an expected outcome materializing given the state of the world. 
-
-Experienced advisors will find a way to convey the level of certainty in a estimate without endangering the client’s trust in the credibility of the advisor’s experience or recommendation. 
+My example above shows both levels of confidence or certainty: the certainty a client can have in a professional's advice and the certainty of the expected outcome the professionals advice includes. A client's certainty should be increased in their advisors credibility when she includes an uncertainty estimate of an expected outcomes. Experienced advisors will find a way to convey the level of certainty in a estimate without endangering the client’s trust in the credibility of the advisor’s experience or recommendation. 
 
 This is the distinction we are wanting to draw. Prediction gives two value pieces of insight: 
 
